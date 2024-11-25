@@ -1,3 +1,11 @@
 *.idea*
 *.DS_Store*
 *postgres-data*
+__pycache__/
+
+# Idea
+.idea/*
+*.iml
+
+# Assignment artifacts
+/Exercises/Exercise-8/output/
