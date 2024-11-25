@@ -1,2 +1,6 @@
 pytest
 duckdb
+pandas
+fastparquet
+
+pytest
